@@ -3,6 +3,6 @@ manipulate gentoo ebuilds within haskell.
 
 To start with, we'll work on creating a:
 
--[ ] parser for existing ebuilds
--[ ] data type to hold all relevant ebuild information
--[ ] writer to output an ebuild file given a valid `ebuild` data type
+- [ ] parser for existing ebuilds
+- [ ] data type to hold all relevant ebuild information
+- [ ] writer to output an ebuild file given a valid `ebuild` data type
